@@ -1,2 +1,4 @@
 *.iml
 /.idea
+file-structure/.minio.sys
+file-structure/supported-filestypes/.ts/*
