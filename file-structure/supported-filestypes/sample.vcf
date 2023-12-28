@@ -1,15 +1,15 @@
-BEGIN:VCARD
-VERSION:4.0
-N:Gump;Forrest;;Mr.;
-FN:Sheri Nom
-ORG:TagSpaces UG
-TITLE:Ultimate Title Example
-PHOTO;MEDIATYPE#image/gif:https://raw.githubusercontent.com/tagspaces/testdata/master/file-structure/supported-filestypes/sample.gif
-TEL;TYPE#work,voice;VALUE#uri:tel:+1-111-675-3535
-TEL;TYPE#home,voice;VALUE#uri:tel:+1-332-233-4534
-ADR;TYPE#WORK;PREF#1;LABEL#"Normality\nBaytown\, LA 50514\nUnited States of America":;;100 Waters Edge;Baytown;LA;50514;United States of America
-ADR;TYPE#HOME;LABEL#"42 Plantation St.\nBaytown\, LA 30314\nUnited States of America":;;42 Plantation St.;Baytown;LA;30314;United States of America
-EMAIL:forest@gump.com
-REV:20231212T175901Z
-x-qq:21588891
-END:VCARD
+BEGIN:VCARD\r\n
+VERSION:4.0\r\n
+N:Gump;Forrest;;Mr.;\r\n
+FN:Sheri Nom\r\n
+ORG:TagSpaces UG\r\n
+TITLE:Ultimate Title Example\r\n
+PHOTO;MEDIATYPE#image/gif:https://raw.githubusercontent.com/tagspaces/testdata/master/file-structure/supported-filestypes/sample.gif\r\n
+TEL;TYPE#work,voice;VALUE#uri:tel:+1-111-675-3535\r\n
+TEL;TYPE#home,voice;VALUE#uri:tel:+1-332-233-4534\r\n
+ADR;TYPE#WORK;PREF#1;LABEL#"Normality\nBaytown\, LA 50514\nUnited States of America":;;100 Waters Edge;Baytown;LA;50514;United States of America\r\n
+ADR;TYPE#HOME;LABEL#"42 Plantation St.\nBaytown\, LA 30314\nUnited States of America":;;42 Plantation St.;Baytown;LA;30314;United States of America\r\n
+EMAIL:forest@gump.com\r\n
+REV:20231212T175901Z\r\n
+x-qq:21588891\r\n
+END:VCARD\r\n
