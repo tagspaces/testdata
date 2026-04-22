@@ -3,3 +3,4 @@
 file-structure/.minio.sys/*
 !file-structure/.minio.sys/format.json
 file-structure/supported-filestypes/.ts/*
+.DS_Store
